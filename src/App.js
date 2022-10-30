@@ -8,7 +8,7 @@ import SearchIcon from './search.svg';
 
 // f197987f
 
-const API_URL = "http://www.omdbapi.com?apikey=f197987f";
+const API_URL = "https://www.omdbapi.com?apikey=f197987f";
 
 const movie1 = {
     "Title": "Spiderman and Grandma",
